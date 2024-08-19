@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_contacts_title">Who do you know?</string>
+    <string name="empty_contacts_description">You can connect to Mudita Center to import contacts, or create new ones here.</string>
+    <string name="empty_contacts_button">Create new contact</string>
+    <string name="contacts_top_bar_title">Contacts</string>
+    <string name="new_contact_screen_top_bar_title">New Contact</string>
+    <string name="create_button">CREATE</string>
+    <string name="new_contact_screen_first_name">First name</string>
+    <string name="new_contact_screen_last_name">Last name</string>
+    <string name="new_contact_screen_phone_number_hint">Phone number</string>
+    <string name="new_contact_screen_top_bar_edit_title">Edit Contact</string>
+</resources>
